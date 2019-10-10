@@ -17,11 +17,14 @@ Tasmanian Tiger- CC0, https://commons.wikimedia.org/wiki/File:Colored-Crop-Tasma
 <br/>
 Dodo- CC0, https://commons.wikimedia.org/wiki/File:Dronte_dodo_Raphus_cucullatus.jpg
 <br/>
-West African Black Rhino- will be added
-<br/>
 Carribean Monk Seal- CC-0, https://commons.wikimedia.org/wiki/File:Monachus_tropicalis.jpg
+<br/>
 Rusty Patched Bumble Bee, CC0,  USGS Bee Inventory and Monitoring Lab, https://www.flickr.com/photos/usgsbiml/44947274694
 <br/>
 Scuba Diver- CC0, https://www.pexels.com/photo/vintage-underwater-diving-diving-suit-54306/
+<br/>
+Yellowfish Tuna- CC0, https://www.publicdomainpictures.net/en/view-image.php?image=87809&picture=yellowfin-tuna
+<br/>
+Hawksbill Sea Turtle- CC0, https://www.flickr.com/photos/usfwssoutheast/5840602412
 <br/>
 Quote/Words of Wisdom- will be added
