@@ -1,13 +1,8 @@
-<h1> Assets- Visual Argument </h1> 
+<h1> Sources- Visual Argument </h1> 
 
-
-Amur Leopard mom-  CC-BY, William Warby,  https://www.flickr.com/photos/wwarby/16209154424 
+Image Sources: 
 <br/>
-Amur Leopard cub- CC BY-ND, Tambako The Jaguar,  https://www.flickr.com/photos/tambako/15760944745
-<br/>
-Sea tutle Hatchlings- CC-0, skeeze,  https://pixabay.com/photos/sea-turtles-hatchlings-baby-beach-1503461/
-<br/>
-Sea turle- CC-0, https://pixnio.com/fauna-animals/reptiles-and-amphibians/turtles-pictures/sea-turtle-pictures/turtle-sand-animal-reptile-sea-turtle-water-armor
+Amur Leopard-  CC0, MarkMurphy,  https://pixabay.com/photos/amur-leopard-leopard-nature-amur-4112011/ 
 <br/>
 Beluga Whale- CC-Attributions, Brian Gratwicke, https://www.flickr.com/photos/briangratwicke/6182461448 
 <br/>
@@ -27,4 +22,30 @@ Yellowfish Tuna- CC0, https://www.publicdomainpictures.net/en/view-image.php?ima
 <br/>
 Hawksbill Sea Turtle- CC0, https://www.flickr.com/photos/usfwssoutheast/5840602412
 <br/>
-Quote/Words of Wisdom- will be added
+Water- CC0, Free-Photos, https://pixabay.com/photos/underwater-blue-ocean-sea-diving-802092/
+<br/> 
+Land- CC0, https://pixnio.com/nature-landscapes/deserts/landscape-mountain-geology-nature-sky-valley-desert-steppe
+<br/>
+Sky- CC0, MALIZ ONG, https://www.publicdomainpictures.net/en/view-image.php?image=50614&picture=cloudy-day-3
+<br/>
+
+Information Sources: 
+<br/>[1] Lawson Crescent. “Extinction of Thylacine.” National Museum of Australia, National Museum of Australia; Commonwealth of Australia; National Museum of Australia, 31 July 2019, https://www.nma.gov.au/defining-moments/resources/extinction-of-thylacine.
+<br/>
+[2] Kanchwala, Hussain, et al. “Dodo Bird Extinction: How Did the Dodo Bird Went Extict?” Science ABC, 8 May 2019, https://www.scienceabc.com/nature/animals/dodo-bird-go-extinct.html.
+<br/>
+[3] “Caribbean Monk Seal Gone Extinct From Human Causes, NOAA Confirms.” ScienceDaily, ScienceDaily, 9 June 2008, https://www.sciencedaily.com/releases/2008/06/080608074828.htm.
+<br/>
+[4] “Amur Leopard.” WWF, World Wildlife Fund, https://www.worldwildlife.org/species/amur-leopard#threats.
+<br/>
+[5] Goodfellow, Jo. “Why Are Hawksbill Turtles Critically Endangered?” Olive Ridley Project, 20 Nov. 2018, https://oliveridleyproject.org/sea-turtles/why-are-hawksbills-critically-endangered.
+<br/>
+[6] “Sumatran Elephant.” WWF, World Wildlife Fund, https://www.worldwildlife.org/species/sumatran-elephant#threats.
+<br/>
+[7] Service, U.S. Fish and Wildlife. “Fact Sheet.” Official Web Page of the U S Fish and Wildlife Service, https://www.fws.gov/midwest/endangered/insects/rpbb/factsheetrpbb.html.
+<br/>
+[8] Noaa. “Beluga Whale.” NOAA Fisheries, https://www.fisheries.noaa.gov/species/beluga-whale.
+<br/>
+[9] “Yellowfin Tuna.” WWF, World Wildlife Fund, https://www.worldwildlife.org/species/yellowfin-tuna.
+<br/>
+[10] Watts, Jonathan. “Human Society under Urgent Threat from Loss of Earth's Natural Life.” The Guardian, Guardian News and Media, 6 May 2019, https://www.theguardian.com/environment/2019/may/06/human-society-under-urgent-threat-loss-earth-natural-life-un-report.
