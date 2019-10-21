@@ -1,6 +1,7 @@
 <h1> Sources- Visual Argument </h1> 
 
 Image Sources: 
+<br/>
 Amur Leopard-  CC0, MarkMurphy,  https://pixabay.com/photos/amur-leopard-leopard-nature-amur-4112011/ 
 <br/>
 Beluga Whale- CC-Attributions, Brian Gratwicke, https://www.flickr.com/photos/briangratwicke/6182461448 
