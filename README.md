@@ -13,3 +13,4 @@ consequences is, "Are we ready to put in the effort to save our planet?"
 Sources: 
 https://github.com/fathimashabnam/visual-argument-2019fall/blob/master/SOURCES.md
 
+![Visual Argument Image](VisualArgument.png)
